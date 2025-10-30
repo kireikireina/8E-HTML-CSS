@@ -1,0 +1,24 @@
+body{
+    /* background-color: rgb(244, 202, 209); */
+    background-image: url(https://cdn.antaranews.com/cache/1200x800/2020/07/05/captain-america.jpg.webp);
+    color: blueviolet;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.box{
+    background-color: brown;
+    padding: 30px;
+    margin: 120px;
+}
+
+.box p{
+    color: white;
+}
+
+h1:hover{
+    color: greenyellow;
+    background-color: azure;
+}
